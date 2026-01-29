@@ -2,7 +2,7 @@ name: NSE EOD Signal Bot
 
 on:
   schedule:
-    - cron: '*/5 * * * *'   # every 5 minutes (test)
+  - cron: '45 11 * * 1-5'   # 5:15 PM IST weekdays
   workflow_dispatch:
 
 jobs:
