@@ -61,7 +61,7 @@ equity = backtest_strategy(
     bb_price
 )
 ```
-![Screenshot_18-2-2026_03616_localhost](https://github.com/user-attachments/assets/22bcb650-940d-4b98-a951-e43b26d6e553)
+
 ![Screenshot_18-2-2026_03616_localhost](https://github.com/user-attachments/assets/22bcb650-940d-4b98-a951-e43b26d6e553)
 
 
@@ -167,8 +167,8 @@ param_grid = {
 }
 ```
 
-# 📌 Example Output (Illustrative)
-![Screenshot_18-2-2026_04844_localhost](https://github.com/user-attachments/assets/3e452586-c9f8-4dfe-874e-fde17476fe6e)
+# 📌 Example Output
+
 ![Screenshot_18-2-2026_04844_localhost](https://github.com/user-attachments/assets/3e452586-c9f8-4dfe-874e-fde17476fe6e)
 
 ---
