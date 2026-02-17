@@ -4,7 +4,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-Research-orange)
 
-A capital-efficient, multi-asset backtesting framework for evaluating a **DMA200 slope + EMA50 slope crossover trend-following strategy** across Indian equities (NIFTY 50 / NIFTY Next 50).
+A capital-efficient, multi-asset backtesting framework for evaluating a **DMA200 slope + EMA50 slope crossover trend-following strategy** across Indian equities (NIFTY 50).
 
 This project emphasizes:
 
@@ -62,7 +62,8 @@ equity = backtest_strategy(
 )
 ```
 
-![Screenshot_18-2-2026_03616_localhost](https://github.com/user-attachments/assets/22bcb650-940d-4b98-a951-e43b26d6e553)
+![Screenshot_18-2-2026_05554_localhost](https://github.com/user-attachments/assets/b8fb4fbe-1951-4cd8-8cd8-ea0d86c57665)
+
 
 
 ## 3️⃣ Performance Metrics
@@ -169,7 +170,8 @@ param_grid = {
 
 # 📌 Example Output
 
-![Screenshot_18-2-2026_04844_localhost](https://github.com/user-attachments/assets/3e452586-c9f8-4dfe-874e-fde17476fe6e)
+![Screenshot_18-2-2026_05948_localhost](https://github.com/user-attachments/assets/20fb922c-1205-4130-a81c-2d5066fad2fd)
+
 
 ---
 
